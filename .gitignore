@@ -1,0 +1,7 @@
+.venv/
+.venv.broken-backup/
+__pycache__/
+*.pyc
+*.pt
+.streamlit/
+.vscode/
